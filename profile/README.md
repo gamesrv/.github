@@ -6,4 +6,5 @@
 ###### 🧑‍💻 Useful resources - You can find *(and edit if needed)* our [docs](https://github.com/gamesrv/documentation).
 ###### 🍕 Fun fact - Hawaiian pizza does not taste good.
 
-![Github-sponsors](https://img.shields.io/badge/sponsor-🥺-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)
+![Github-sponsors](https://img.shields.io/badge/sponsor-🥺-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA) ![Discord](https://img.shields.io/badge/Gamespeed-%237289DA.svg?style=flat&logo=discord&logoColor=white)
+
